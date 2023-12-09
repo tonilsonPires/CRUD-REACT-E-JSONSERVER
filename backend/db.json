@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Adão Magalhães Quilundo",
+      "email": "adaodev@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Sebastião Sousa Moniz",
+      "email": "Cientistavogadro@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Jorgito",
+      "email": "piresqpresta2020@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Manuel Pires",
+      "email": "nvangamanuel@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Admin",
+      "email": "tonilsonrijo@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "id": 8
+    }
+  ]
+}
